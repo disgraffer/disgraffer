@@ -1,0 +1,11 @@
+.presentation-info{
+	z-index: 2;
+	.profile-photo{
+		img{
+			width: 300px;
+			border-radius: 50%;
+			border: 10px solid white;
+			box-shadow: 9px 11px 29px -11px rgba(0,0,0,0.75);		
+		}
+	}	
+}
